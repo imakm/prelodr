@@ -41,7 +41,7 @@
     "pretty-bytes": "^4.0.2",
     "readline-sync": "^1.4.5",
     "webpack": "^2.3.0",
-    "webpack-dev-server": "^2.2.1"
+    "webpack-dev-server": "^2.4.4"
   },
   "engines": {
     "node": ">= 4.0"
